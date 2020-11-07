@@ -1,0 +1,4 @@
+﻿  lab6.4.cpp
+D:\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 6.4\VisualStudio\lab6.4\lab6.4\lab6.4.cpp(97): warning C4715: 'null1i': not all control paths return a value
+D:\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 6.4\VisualStudio\lab6.4\lab6.4\lab6.4.cpp(103): warning C4715: 'null2i': not all control paths return a value
+  lab6.4.vcxproj -> D:\Львівська політехніка\Алгоритмізація та програмування\Лабораторна робота 6.4\VisualStudio\lab6.4\Debug\lab6.4.exe
